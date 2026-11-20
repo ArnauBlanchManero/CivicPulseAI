@@ -1,0 +1,15 @@
+{
+  "total": 126,
+  "registros": [
+    {
+      "ESTACION": "11",
+      "MAGNITUD": "12",
+      "PUNTO_MUESTREO": "28079011_12_8",
+      "ANO": "2026",
+      "MES": "11",
+      "DIA": "19",
+      "H01": "3",
+      "V01": "V"
+    }
+  ]
+}
